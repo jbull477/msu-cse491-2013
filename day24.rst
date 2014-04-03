@@ -17,7 +17,7 @@ In-class exercises
 
 1. In pairs, look at http://jobs.msu.edu.  Try searching for two different
    job postings (4698 and 7617, for example).  Can you communicate these
-   two each other via an e-mailed URL? Try sending each other the URL of
+   to your partner via an e-mailed URL? Try sending each other the URL of
    the different job.
 
    What is the mechanism the site is using to keep track of what job you're
