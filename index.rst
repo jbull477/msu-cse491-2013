@@ -49,6 +49,7 @@ Class pages and HWs, by day:
    :maxdepth: 2
 
    hw11
+   day24
    day23
    hw10
    day22
