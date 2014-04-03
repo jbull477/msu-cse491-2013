@@ -27,7 +27,7 @@ In-class exercises
 
       git clone https://github.com/ctb/cse491-serverz.git day24-ice -b day24-ice
 
-   and run the imageapp, 'cd day24-ice; python server.py -A imageapp'.
+   and run the imageapp, 'cd day24-ice; python server.py -A image'.
 
    In pairs, have one person log in to the same server as
    'user1'/'user1' and the other as 'user2'/'user2'.  Now check to see
