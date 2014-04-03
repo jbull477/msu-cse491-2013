@@ -6,7 +6,8 @@ Projects
    :width: 80%
 
 Overall goal: implement features for an image
-sharing/storage/leaderboard/editing Web site.
+sharing/storage/leaderboard/editing Web site.  (So, please assume that
+most features should be implemented on imageapp. ;)
 
 Testing rules: apart from the testing specific projects, do enough
 to make sure that your site works.  Heh.
@@ -63,7 +64,8 @@ fixed (or not) code.  Details still a bit fuzzy; ask questions.
 
 15. Add account creation, login, and authentication (5 pts; app_feature)
 
-16. Add data persistence in sqlite or MySQL or PostgreSQL (5 pts; app_feature)
+16. Add data persistence in sqlite or MySQL or PostgreSQL (5 pts; app_feature).  NOTE that you can use the CSE MySQL server, here: http://www.cse.msu.edu/Facility/Services/MySQL.php
+
 
 17. Implement multithreading in your WSGI server (see http://docs.python.org/2/library/threading.html) and explain how you know it's working.  (5 pts; wsgi)
 
@@ -94,7 +96,12 @@ fixed (or not) code.  Details still a bit fuzzy; ask questions.
 
 30. Add data persistence in a NoSQL database (5 pts; app_feature)
 
+31. Reimplement the most basic imageapp functionality (uploading and serving images) in the `Scala Play framework <http://www.playframework.com/>`__. (5 pts; app_framework)
+
+32. Reimplement the most basic imageapp functionality in the `Node.js framework <http://nodejs.org/>`__. (5 pts; app_framework)
+
 .. add tests at all levels?
+
 .. Implement error handling for no file, etc.
 
 .. consistent styles
@@ -102,7 +109,3 @@ fixed (or not) code.  Details still a bit fuzzy; ask questions.
 .. write Selenium tests
 
 .. make tiny url
-
-.. twill and requests
-
-.. help a brutha out
