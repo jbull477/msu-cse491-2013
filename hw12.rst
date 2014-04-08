@@ -1,41 +1,18 @@
 ===========
-Homework 11
+Homework 12
 ===========
 
-Due by noon on Thursday, Apr 10th.
+Due by noon on Thursday, Apr 17th.
 
 Note: you will be asked to do 50 total points of projects for this class.
 
-0. Merge hw10 into your master.  Please don't delete the 'hw10' branch.
+0. Merge hw11 into your master.  Please don't delete the 'hw11' branch.
 
-   Hand in this homework on branch 'hw11' on your github account, and
-   set up a pull request between hw11 and your master branch.  Don't
+   Hand in this homework on branch 'hw12' on your github account, and
+   set up a pull request between hw12 and your master branch.  Don't
    merge it, just set up the PR.
 
-1. Make the cookie app from :doc:`day23` work in your server.py, when
-   run with '-A cookie'.  Note in particular that this means you need
-   proper HTTP_COOKIE handling in your WSGI server...
-
-   In particular, try out the twill test on the day23 branch of
-   cse491-serverz works; see `the test script here
-   <https://github.com/ctb/cse491-serverz/blob/day23/twill-tests/cookieapp.twill>`__.
-   You can run it like so::
-
-      twill-sh -u http://hostname:port/ twill-tests/cookieapp.twill
-
-2. Change imageapp to store its images in a SQL database.  Feel free
-   to swipe the sqlite3 code from :doc:`day23`.  Make sure to separate
-   database creation code from image loading code, and execute the
-   database creation code only once (or, when needed).  Put in
-   instructions on how to do this if it's not automatically figured out...
-
-   Two notes:
-
-   * This is just about the images, nothing else;
-   * If you've already done any of the data persistence projects, you're good;
-     just tell me that in the ChangeLog for hw11.
-
-3. Pick 10 points worth of projects from :doc:`projects` and implement.
+1. Pick 10 points worth of projects from :doc:`projects` and implement.
 
    Make sure to explain what you did in the ChangeLog, in detail,
    including instructions on how to execute things.  Note that all
@@ -69,9 +46,9 @@ and that all your functionality works on the clean clone, on arctic.
 
 That is, do::
 
-   git clone https://github.com/ctb/cse491-serverz -b hw11 test-hw11
-   cd test-hw11
-   (check stuff over)
+   git clone https://github.com/ctb/cse491-serverz -b hw12 test-hw12
+   cd test-hw12
+   (run stuff)
 
 Using ChangeLog, please explain your project choice and implementation
 in sufficient detail to let someone else (me) who is _not_ psychic
