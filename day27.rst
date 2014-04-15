@@ -19,13 +19,13 @@ Question -- does the 'add_image' function (lines 35-54) in `image.py
 <https://github.com/ctb/cse491-serverz/blob/e7d764c23d432f4d8cd96384f788dc27167d0421/imageapp/image.py>`__
 need to be protected from concurrent execution in (a) threading and (b) async?
 
-If (a) threading is YES and (b) threading is YES, choose pink.
+If (a) threading is YES and (b) async is YES, choose pink.
 
-If (a) threading is YES and (b) threading is NO, choose green.
+If (a) threading is YES and (b) async is NO, choose green.
 
-If (a) threading is NO and (b) threading is YES, choose yellow.
+If (a) threading is NO and (b) async is YES, choose yellow.
 
-If (a) threading is NO and (b) threading is NO, choose blue.
+If (a) threading is NO and (b) async is NO, choose blue.
 
 
 ----
