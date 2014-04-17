@@ -9,7 +9,7 @@ Day 28: Tuesday, April 15, 2014
 2. Discussion
 
 3. Next week's schedule: Tuesday (XSS and Selenium; DB; SIRS);
-   Thursday (CTO NastyGal, Grig Gheorghiu will speak via teleconf)
+   Thursday (CTO `NastyGal <http://en.wikipedia.org/wiki/Nasty_Gal>`__, Grig Gheorghiu will speak via teleconf)
 
 4. In class exercise on git merging.
 
