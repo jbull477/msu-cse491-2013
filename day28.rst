@@ -4,14 +4,20 @@ Day 28: Tuesday, April 15, 2014
 
 0. Read http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb.  See also http://www.nodebeginner.org/#building-the-application-stack.
 
-1. Quiz
+1. `Quiz on reading <https://docs.google.com/a/msu.edu/forms/d/1XaGaCdcF2JoOFofiAzx9ury7Oj8YKjRzcUtMBm1N5J0/viewform>`__
 
-2. Discussion
+2. Discussion.
 
 3. Next week's schedule: Tuesday (XSS and Selenium; DB; SIRS);
    Thursday (CTO `NastyGal <http://en.wikipedia.org/wiki/Nasty_Gal>`__, Grig Gheorghiu will speak via teleconf)
 
-4. In class exercise on git merging.
+4. This week's homework will be:
+   (a) finish out project points by Th;
+   (b) fix stuff that I find in your homework, by following Th (two weeks).
+
+5. No class or final during final's week!
+
+6. In class exercise on git merging.
 
 In class exercise: git merging
 ------------------------------
@@ -28,6 +34,8 @@ Longer description:
 
    Two separate improvements have been made to the codebase.  Please merge
    them into a single branch.
+
+Note: Be sure to take the time to look through the project and repository!
 
 Workflow:
 
@@ -71,7 +79,11 @@ Workflow:
 
       git merge try_merge
 
-10. Bask in the warm glow of success.
+10. (If you have time) Fork https://github.com/ctb/cse491-mergez, push
+    your master branch to your own copy, and set up a pull request
+    from your master to my master.
+
+11. Bask in the warm glow of success.
 
 Resolving merge conflicts
 -------------------------
