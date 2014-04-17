@@ -19,6 +19,8 @@ Day 28: Tuesday, April 15, 2014
 
 6. In class exercise on git merging.
 
+7. `git merging prez <https://docs.google.com/presentation/d/1kiA2x-HMy0cybzx_r8yt_ZWS9aE_hQuJDRjV_t_AyNY/edit#slide=id.p13>`__
+
 In class exercise: git merging
 ------------------------------
 
@@ -47,6 +49,7 @@ Workflow:
 
       cd cse491-mergez
       git fetch origin
+
 3. Make sure you're on master::
 
       git checkout master
