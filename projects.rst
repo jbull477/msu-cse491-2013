@@ -69,9 +69,9 @@ fixed (or not) code.  Details still a bit fuzzy; ask questions.
 
 17. Implement multithreading in your WSGI server (see http://docs.python.org/2/library/threading.html) and explain how you know it's working.  (5 pts; wsgi)
 
-18. Implement multiprocessing (shared nothing in memory) in your WSGI server (see http://docs.python.org/2/library/multiprocessing.html) and explain how you know it's working (5 pts; wsgi)
+18. Implement multiprocessing (shared nothing in memory) in your WSGI server (see http://docs.python.org/2/library/multiprocessing.html) and explain how you know it's working (see :doc:`day28` code) (5 pts; wsgi)
 
-19. Implement asynchronous I/O (not multithreading/multiprocessing, but still handling multiple connections) in your WSGI server, and explain how you know it's working (5 pts; wsgi)
+19. Implement asynchronous I/O (not multithreading/multiprocessing, but still handling multiple connections) in your WSGI server, and explain how you know it's working. (5 pts; wsgi)
 
 20. After #14, set up a domain name and static IP address for your site. (5 pts; hosting)
 
