@@ -59,4 +59,4 @@ Class days
 - [ ] 27. 4/10 -> CTB NOT IN TOWN/CLASS CANCELLED?
 - [ ] 28. 4/15
 - [ ] 29. 4/17
-- [ ] 30. 4/22
+- [ jbull477 ] 30. 4/22
